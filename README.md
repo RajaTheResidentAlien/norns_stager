@@ -12,5 +12,7 @@ instructions:
 
 * with 'dregz.lua', if you hold down the k2 key, it'll push the audio through the resonator effect(dynklank with resonant frequencies in the key of the piece), if you hold down the k3 key, it'll push the audio through the tap-delay, if you hold down both, it'll go through resonator and then through the tap-delay...
 the knobs control 'bpm', 'beat-division', and 'swing', in that order for enc1, enc2, & enc3
+video capture of one take from the 'dregz' script:
+https://www.youtube.com/watch?v=TPpQdfQFBww
 
 more explanation for other scripts will appear here as they get pushed to this repo... thanks for reading! <3
