@@ -1,5 +1,5 @@
 # norns_stager
-(development starting points)
+##development starting points)
 
 instructions:
 
