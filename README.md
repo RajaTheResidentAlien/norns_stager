@@ -4,7 +4,8 @@
 instructions:
 
 * install as instructed below in the 'download' section
-* if you want to try out the 'dregz.lua' accompanying max patch(for synchronized visuals), download that patch to your computer(you can visit the github link in the 'install' line below, and just download the .zip, then throwaway everything else but the max patch found in the 'lib' folder: "AlienFBMEye.maxpat"), open it in Max, and activate the toggle near the left-hand side of the patch.
+* if you want to try out the 'dregz.lua' accompanying max patch(for synchronized visuals), download that patch to your computer(found in the 'lib' folder of this repo: "AlienFBMEye.maxpat"), open it in Max, and activate the toggle near the left-hand side of the patch(sometimes i've found it easier to copy and paste the 
+'raw' version of max patches if working straight from github, into a blank new patcher in max).
 
 * since these are more like single songs, i'd recommend easiest thing is to control from within maiden: select either script to try it out('simpy.lua' or 'dregz.lua') and hit the play button in maiden, then it's easy to just hit the stop button, otherwise, if you select the script from within your norns, to stop the script you'll just need to 'clear' it(hold k2 then k1 in that order, then confirm when it asks 'clear?' with k3)
 
